@@ -1,0 +1,61 @@
+{
+  "id": "gattaca-1997",
+  "title": "Gattaca",
+  "type": "movie",
+  "release_year": 1997,
+  "runtime_minutes": 106,
+  "language": "English",
+
+  "world": {
+    "future_world": 0.99,
+    "near_future": 0.92,
+    "alternate_history": 0.10,
+    "dystopian": 0.82,
+    "technological_society": 0.88
+  },
+
+  "visuals": {
+    "retrofuturism": 0.96,
+    "mid_century_modern": 0.92,
+    "1960s_architecture": 0.91,
+    "art_deco": 0.72,
+    "minimalism": 0.87,
+    "monumental_architecture": 0.82,
+    "analog_technology_aesthetic": 0.84,
+    "vintage_vehicles": 0.91,
+    "period_inspired_clothing": 0.89,
+    "visible_futuristic_technology": 0.48
+  },
+
+  "atmosphere": {
+    "elegant": 0.92,
+    "controlled": 0.94,
+    "sterile": 0.89,
+    "melancholic": 0.81,
+    "lonely": 0.75,
+    "hopeful": 0.58,
+    "whimsical": 0.05,
+    "playful": 0.06
+  },
+
+  "emotion": {
+    "wonder": 0.49,
+    "discovery": 0.46,
+    "childlike_wonder": 0.09,
+    "novelty": 0.31,
+    "excitement": 0.48,
+    "hope": 0.72,
+    "inspiration": 0.88,
+    "melancholy": 0.82,
+    "determination": 0.96
+  },
+
+  "experience": {
+    "pacing": 0.50,
+    "complexity": 0.70,
+    "emotional_heaviness": 0.70,
+    "visual_importance": 0.90,
+    "worldbuilding_importance": 0.80,
+    "attention_required": 0.70
+  }
+}
