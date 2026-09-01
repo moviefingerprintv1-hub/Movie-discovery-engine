@@ -1,0 +1,59 @@
+{
+  "id": "pleasantville-1998",
+  "title": "Pleasantville",
+  "type": "movie",
+  "release_year": 1998,
+  "runtime_minutes": 124,
+  "language": "English",
+
+  "world": {
+    "future_world": 0.02,
+    "near_future": 0.01,
+    "alternate_reality": 0.97,
+    "small_town_america": 0.96,
+    "idealized_suburbia": 0.94
+  },
+
+  "visuals": {
+    "retrofuturism": 0.08,
+    "mid_century_modern": 0.83,
+    "1950s_americana": 0.98,
+    "1960s_architecture": 0.58,
+    "classic_cars": 0.81,
+    "diner_imagery": 0.92,
+    "period_clothing": 0.94,
+    "black_and_white_aesthetic": 0.97,
+    "selective_color": 0.99
+  },
+
+  "atmosphere": {
+    "nostalgic": 0.89,
+    "whimsical": 0.84,
+    "idyllic": 0.76,
+    "dreamlike": 0.68,
+    "comforting": 0.65,
+    "playful": 0.72,
+    "unsettling": 0.39,
+    "melancholic": 0.29
+  },
+
+  "emotion": {
+    "wonder": 0.88,
+    "discovery": 0.92,
+    "childlike_wonder": 0.84,
+    "novelty": 0.94,
+    "excitement": 0.76,
+    "hope": 0.87,
+    "nostalgia": 0.81,
+    "joy_of_new_experience": 0.94
+  },
+
+  "experience": {
+    "pacing": 0.50,
+    "complexity": 0.50,
+    "emotional_heaviness": 0.40,
+    "visual_importance": 0.90,
+    "worldbuilding_importance": 0.90,
+    "attention_required": 0.50
+  }
+}
